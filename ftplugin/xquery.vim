@@ -1,1 +1,1 @@
-:map <buffer> <leader>g :call GotoXqueryModule()
+map <buffer> <leader>g :call GotoXqueryModule()
